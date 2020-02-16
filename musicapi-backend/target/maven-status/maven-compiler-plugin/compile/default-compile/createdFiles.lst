@@ -1,0 +1,8 @@
+com\rogowski\musicapi\model\Song.class
+com\rogowski\musicapi\model\Role.class
+com\rogowski\musicapi\model\Artist.class
+com\rogowski\musicapi\MusicapiApplication.class
+com\rogowski\musicapi\repository\UserRepository.class
+com\rogowski\musicapi\model\Album.class
+com\rogowski\musicapi\repository\RoleRepository.class
+com\rogowski\musicapi\model\User.class
